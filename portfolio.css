@@ -1,0 +1,40 @@
+.portfolio{
+    border: solid yellowgreen;
+    height: 3000px;
+    background-color:lightslategray;
+}
+#portfolio{
+text-align: center;
+background-color: wheat;
+}
+#mode4{
+    background-color: brown;
+    font: size 10px;
+}
+#lorem{
+    font-size: 40%;
+}
+#SKILLS{
+    background-color:yellow;
+}
+#mode6{
+    background-color: blueviolet;
+}
+ul li {
+    font-size: 60%;
+}
+#mode7{
+    background-color:red;
+
+}
+#mode8{
+    font-size: 20px;
+}
+#mode9{
+    font-size: 20px;
+    margin: 50px;
+}
+#mode10{
+    font-size: 20px;
+    text-align: center;
+}
